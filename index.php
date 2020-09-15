@@ -1,6 +1,6 @@
 <?php
 
-  echo"<br/>";
+  echo"<br>";
   $angka=5;
 
   for($a=1; $a<=$angka; $a++){
@@ -8,6 +8,6 @@
        echo'* ';
     }
     
-    echo"<br/>";
+    echo"<br>";
   }
 ?>
